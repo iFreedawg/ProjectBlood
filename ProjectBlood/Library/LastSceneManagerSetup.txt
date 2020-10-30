@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/BloodyAssets/Art/VFX/VFXtest.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
