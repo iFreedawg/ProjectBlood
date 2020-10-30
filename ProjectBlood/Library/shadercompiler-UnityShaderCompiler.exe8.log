@@ -1,0 +1,29 @@
+Base path: C:/Programs/Unity/2019.1.10f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=39145 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=47741 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=34633 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=41613 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=39357 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=49649 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at (0): Program 'Deferred_Indirect_ShadowMask_Fptl_Variant26', warning X4714: sum of temp registers and indexable temp registers times 256 threads exceeds the recommended total 16384.  Performance may be reduced
+  api=4 insize=14406 outsize=95645 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7423 outsize=1341 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=31641 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=33021 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=1541 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7712 outsize=4517 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7237 outsize=142 kw=_NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1

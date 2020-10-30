@@ -1,0 +1,26 @@
+Base path: C:/Programs/Unity/2019.1.10f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=37521 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=34989 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=34541 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=72681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14406 outsize=76445 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26648 outsize=14253 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9347 outsize=12805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17415 outsize=10549 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4918 outsize=2429 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34508 outsize=33949 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5089 outsize=929 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7712 outsize=4345 ok=1
