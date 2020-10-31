@@ -2300,3 +2300,5 @@ ProjectBlood/Library/PackageCache/com.unity.shadergraph@5.7.2/Editor/Data/Nodes/
 ProjectBlood/Library/PackageCache/com.unity.shadergraph@5.7.2/Editor/Data/Nodes/Artistic/Normal/NormalBlendNode.cs.meta
 ProjectBlood/Library/PackageCache/com.unity.shadergraph@5.7.2/Editor/Data/Nodes/Artistic/Normal/NormalBlendNode.cs
 Models/
+ProjectBlood/Temp/
+ProjectBlood/Library/
